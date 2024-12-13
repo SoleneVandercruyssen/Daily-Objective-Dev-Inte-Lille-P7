@@ -10,7 +10,7 @@ Christopher
 - [x] Comprendre le fonctionnement des dropdowns, boutons radio, et checkbox
 - [x] Savoir insérer une vidéo dans une page HTML (Youtube, locale)
 - [x] Créer son premier formulaire HTML
-- [ ] Brief Formulaire (avec répertoire git)
+- [x] Brief Formulaire (avec répertoire git)
 - [x] Brief Boulanger  (avec répertoire git)
 - [x] savoir faire un rendu sur Simplonline
 
