@@ -16,7 +16,7 @@ Yassen
     - [x] Citations
     - [x] Tableaux
     - [x] Liens
-  - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
+  - [x] Faire le parcours "how-to-markdown" (Nodeschool.io)
 - [x] Comprendre l'intérêt des raccourcis clavier
   - [x] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) :
     - [x] Navigateur (fenêtres, onglets, navigation, etc …)
